@@ -1,0 +1,2 @@
+# ReactNativeImageSearch
+Create an image search app using the pixabay API . T he app should open to a search screen . A fter search ing , it should navigate to a display screen with all the thumbs in flatList . The t h umbnails must be clickable and navigate to a detail view with a larger version of the image. The higher resolution image is part of the JSON from pixbay . The thumbnail and details screen s must be a consumer of the app context to get its data.
